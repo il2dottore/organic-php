@@ -1,3 +1,2 @@
 # organic-php
-Rat organic
-Con me may
+Simple PHP MVC framework from scratch, including middlewares, controller and route with FastRoute, database interaction with Eloquent,...
